@@ -1,5 +1,5 @@
 {
-  "name": "Twitter_image_download",
+  "name": "tp-save",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
