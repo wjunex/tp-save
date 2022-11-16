@@ -1,5 +1,5 @@
 {
-  "name": "photo_vite",
+  "name": "Twitter_image_download",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
